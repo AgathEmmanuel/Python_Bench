@@ -1,6 +1,5 @@
 
 
-https://www.edureka.co/blog/data-structures-in-python/#arrayvslist
 
 
 Built-in Data Structures
